@@ -22,8 +22,8 @@ ul li {
 ul li a {
     margin: auto;
     text-decoration: none;
-    font-family: 'GOHAN' !important;
-    font-size: 22px;
+    font-family: 'UTMNeutra' !important;
+    font-size: 16px;
     color: blue;
 }
 ul li a:hover{
@@ -37,5 +37,5 @@ h2{
     font-family: '3954';
 }
 p{
-    font-family: "GOHAN";
+    font-family: "Chapbook";
 }
