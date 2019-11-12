@@ -1,10 +1,41 @@
+@import url("fonts/fonts.css");
 article > img{
     display:block;
-    width:auto;
+    width: 300px;
+    height: 150px;
     margin: auto
 }
 article h1 {
     text-align: center;
     font-size: 55px;
     margin: auto;
+}
+ul {
+    list-style: none;
+}
+
+ul li {
+    display: inline-block;
+    border-radius: 15%;
+    padding: 6px;
+}
+ul li a {
+    margin: auto;
+    text-decoration: none;
+    font-family: 'GOHAN' !important;
+    font-size: 22px;
+    color: blue;
+}
+ul li a:hover{
+    text-decoration: underline;
+    background: rgb(215, 215, 252);
+}
+h1{
+    font-family: "UTMNeutra";
+}
+h2{
+    font-family: '3954';
+}
+p{
+    font-family: "GOHAN";
 }
