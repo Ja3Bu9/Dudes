@@ -1,2 +1,2 @@
 # Dudes
-c'est projet Html Css Youcode safi Groupe B
+c'est un  projet Html Css Youcode safi Groupe B
