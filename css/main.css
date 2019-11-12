@@ -3,3 +3,11 @@ body {
     margin: auto;
     background-image: url(../img/texture.jpg);
 }
+
+.logo {
+    text-align: center;
+}
+.logo img {
+    height: 90px;
+    width: 450px;
+}

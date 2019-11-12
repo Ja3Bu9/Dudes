@@ -1,0 +1,10 @@
+article > img{
+    display:block;
+    width:auto;
+    margin: auto
+}
+article h1 {
+    text-align: center;
+    font-size: 55px;
+    margin: auto;
+}
