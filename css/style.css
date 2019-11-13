@@ -8,3 +8,19 @@ table {
 table, th, td {
   border: 1px solid black;
 }
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+div{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+body{
+            background-image: url(../img/texture.jpg);
+            }
