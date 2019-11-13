@@ -1,4 +1,9 @@
 @import url("fonts/fonts.css");
+body {
+    width: 80%;
+    margin: auto;
+    background-image: url(../img/texture.jpg);
+}
 article > img{
     display:block;
     width: 300px;
