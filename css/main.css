@@ -1,3 +1,4 @@
+@import url("fonts/fonts.css");
 .logo {
     text-align: center;
     margin: -11px;
@@ -23,7 +24,7 @@ nav ul li {
 nav ul li a {
     margin: auto;
     text-decoration: none;
-    font-family: roboto !important;
+    font-family: 3954 !important;
     font-size: 20px;
     color: blue;
 }
