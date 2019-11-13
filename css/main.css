@@ -7,8 +7,12 @@
     height: 90px;
     width: 450px;
 }
+nav{
+    text-align: center;
+}
 nav ul {
     list-style: none;
+    border-bottom: 3px solid #f7a886;
 }
 
 nav ul li {
