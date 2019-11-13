@@ -1,5 +1,7 @@
 .logo {
     text-align: center;
+    margin: -11px;
+    background: #f7f4f4d1;
 }
 .logo img {
     height: 90px;
