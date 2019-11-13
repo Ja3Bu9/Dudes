@@ -34,14 +34,24 @@ main {
     width: 80%;
     margin: auto;
 }
-.tof img {
-    width: 220px;
-}
 .artiles {
     display: flex;
     width: 75%;
     margin: auto;
+    padding: 15px;
+    border-bottom: 3px solid #32a1ce;
 }
 .pref a {
     float: right;
+}
+.pref a {
+    float: right;
+}
+.tof img {
+    width: 220px;
+    height: 150px;
+}
+
+.tof {
+    margin: 11px;
 }
