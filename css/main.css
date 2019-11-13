@@ -11,3 +11,23 @@ body {
     height: 90px;
     width: 450px;
 }
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    border-radius: 15%;
+    padding: 6px;
+}
+nav ul li a {
+    margin: auto;
+    text-decoration: none;
+    font-family: 'UTMNeutra' !important;
+    font-size: 16px;
+    color: blue;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+    background: rgb(215, 215, 252);
+}

@@ -10,26 +10,7 @@ article h1 {
     font-size: 55px;
     margin: auto;
 }
-ul {
-    list-style: none;
-}
 
-ul li {
-    display: inline-block;
-    border-radius: 15%;
-    padding: 6px;
-}
-ul li a {
-    margin: auto;
-    text-decoration: none;
-    font-family: 'UTMNeutra' !important;
-    font-size: 16px;
-    color: blue;
-}
-ul li a:hover{
-    text-decoration: underline;
-    background: rgb(215, 215, 252);
-}
 h1{
     font-family: "UTMNeutra";
 }
