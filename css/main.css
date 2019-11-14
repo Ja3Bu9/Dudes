@@ -3,6 +3,7 @@
     text-align: center;
     margin: -11px;
     background: #f7f4f4d1;
+    border-radius: 0px 0px 55% 55%;
 }
 .logo img {
     height: 90px;
